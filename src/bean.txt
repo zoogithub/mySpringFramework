@@ -1,0 +1,3 @@
+id=Person
+class=Person
+name=王尼玛
